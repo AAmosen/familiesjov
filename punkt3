@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta charset="UTF-8">
+  <title>Åmosen skebelon</title>
+  <link rel="stylesheet" type="text/css" href="aamosen.css">
+</head>
+
+<body>
+<p><span style="text-decoration: underline;"><strong>Punkt 3:</strong></span></p>
+<ul>
+<li>M&aring;l med skridt hvor mange meter den store hovedbygning har v&aelig;ret.<br /><br /></li>
+<li>Kan i udregne hvor mange kvadratmeter (m2) bygningen har v&aelig;ret?<br /><br /></li>
+<li>Hvor mange andre bygninger har der v&aelig;ret uden om?</li>
+</ul>
+</body>
