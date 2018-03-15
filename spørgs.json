@@ -1,7 +1,7 @@
 {  
    "Questions":[  
       {  
-         "spørgsmål":"Hvordan blev Tissø til?",
+         "Spørgsmål":"Hvordan blev Tissø til?",
          "Svarmuligheder":[  
             "Der stod en kæmpe og tissede",
             "En isklump fra istiden som smeltede",
@@ -10,7 +10,7 @@
          "Rigtigtsvar":2
       },
       {  
-         "spørgsmål":"Hvor mange m2 var den store hal ved Storgårdspladsen ved Tissø? (Bulbrogård)",
+         "Spørgsmål":"Hvor mange m2 var den store hal ved Storgårdspladsen ved Tissø? (Bulbrogård)",
          "Svarmuligheder":[  
             "50 m2",
             "200 m2",
@@ -19,7 +19,7 @@
          "Rigtigtsvar":3
       },
       {  
-         "spørgsmål":"Hvem er Tissø, søen, navngivet efter?",
+         "Spørgsmål":"Hvem er Tissø, søen, navngivet efter?",
          "Svarmuligheder":[  
             "Tyr",
             "Thor",
@@ -37,7 +37,7 @@
          "Rigtigtsvar":1
       },
       {  
-         "spørgsmål":"Hvornår blev Tissø-ringen fundet?",
+         "Spørgsmål":"Hvornår blev Tissø-ringen fundet?",
          "Svarmuligheder":[  
             "1900",
             "1930",
@@ -46,7 +46,7 @@
          "Rigtigtsvar":3
       },
       {  
-         "spørgsmål":"Hvornår blev de to mænd halshugget?",
+         "Spørgsmål":"Hvornår blev de to mænd halshugget?",
          "Svarmuligheder":[  
             "Stenalderen",
             "Middelalderen",
@@ -55,7 +55,7 @@
          "Rigtigtsvar":2
       },
       {  
-         "spørgsmål":"Hvorfor har odderne deres egen passage under broen?",
+         "Spørgsmål":"Hvorfor har odderne deres egen passage under broen?",
          "Svarmuligheder":[  
             "De ville ikke have våde tær",
             "De kan ikke lide at svømme under broen",
@@ -64,7 +64,7 @@
          "Rigtigtsvar":2
       },
       {  
-         "spørgsmål":"Hvor gammelt navnet Tissø ?",
+         "Spørgsmål":"Hvor gammelt navnet Tissø ?",
          "Svarmuligheder":[  
             "1000 år",
             "1500 år",
@@ -73,7 +73,7 @@
          "Rigtigtsvar":1
       },
       {  
-         "spørgsmål":"Hvilken trosretning havde de i vikingetiden?",
+         "Spørgsmål":"Hvilken trosretning havde de i vikingetiden?",
          "Svarmuligheder":[  
             "Jøder",
             "Muslimer",
