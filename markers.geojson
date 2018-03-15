@@ -6,7 +6,9 @@
       "properties": {
         "marker-color": "#00ff00",
         "marker-size": "medium",
-        "marker-symbol": "star-stroked"
+        "marker-symbol": "star-stroked",
+        "url": "https://aamosen.github.io/familiesjov/punkt1.html",
+        "stroke": ""
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +23,8 @@
       "properties": {
         "marker-color": "#ffff00",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "url": "https://aamosen.github.io/familiesjov/punkt2.html"
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +39,8 @@
       "properties": {
         "marker-color": "#ffff00",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "url": "https://aamosen.github.io/familiesjov/punkt3.html"
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +55,8 @@
       "properties": {
         "marker-color": "#ffff00",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "url": "https://aamosen.github.io/familiesjov/punkt4.html"
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +71,8 @@
       "properties": {
         "marker-color": "#ffff00",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "url": "https://aamosen.github.io/familiesjov/punkt5.html"
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +87,8 @@
       "properties": {
         "marker-color": "#ffff00",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "url": "https://aamosen.github.io/familiesjov/punkt6.html"
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +103,8 @@
       "properties": {
         "marker-color": "#ffff00",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "url": "https://aamosen.github.io/familiesjov/punkt7.html"
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +119,8 @@
       "properties": {
         "marker-color": "#ffff00",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "url": "https://aamosen.github.io/familiesjov/punkt8.html"
       },
       "geometry": {
         "type": "Point",
@@ -126,7 +135,8 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "star"
+        "marker-symbol": "star",
+        "url": "https://aamosen.github.io/familiesjov/punkt9.html"
       },
       "geometry": {
         "type": "Point",
@@ -135,6 +145,6 @@
           55.57463284906281
         ]
       }
-    }     
+    }
   ]
 }
